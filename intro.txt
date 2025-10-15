@@ -1,0 +1,15 @@
+Giới thiệu cá nhân:  
+- Tôi là Thanh Tú 
+- Sinh ra tại Việt Nam
+- Đang học cntt  
+- Mục tiêu nghề nghiệp kiếm tiền
+- Thích công nghệ và học hỏi 
+Sở thích:  
+- Đọc sách  
+- Lập trình  
+- Du lịch
+
+Kỹ năng:  
+- Python  
+- Git  
+- HTML/CSS
