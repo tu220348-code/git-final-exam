@@ -17,4 +17,9 @@ Sở thích:
 Kỹ năng:  
 - Python  
 - Git  
-- HTML/CSS
+- HTML/CSSKế hoạch học tập: 
+- Học thêm C#
+- Hoàn thành chuẩn đầu ra 
+- Học thêm tiếng Anh
+- Đạt GPA 8.0 học kỳ 2
+- Đạt 10 điểm môn Mã nguồn mở
